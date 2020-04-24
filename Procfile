@@ -1,1 +1,1 @@
-web: voila —-port=$PORT —-no-browser --template=material --enable_nbextensions=True  Covid.ipynb
+web: voila —-port=$PORT —-no-browser Covid.ipynb
