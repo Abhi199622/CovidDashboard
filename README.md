@@ -4,4 +4,3 @@ This is a Dashboard which contains graphs and global spread world map for analyz
 It is a live application using Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University.
 
 https://covid-analysis-dashboard.herokuapp.com/
-
